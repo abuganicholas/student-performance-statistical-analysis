@@ -144,7 +144,7 @@ pit.bar_label(bars,fmt="%.2f",padding=3)
 pit.tight_layout()
 
 # Save the graph as an image
-pit.savefig("../images/images/standard_deviation_comparison.png", dpi=300, bbox_inches="tight")
+pit.savefig("images/standard_deviation_comparison.png", dpi=300, bbox_inches="tight")
 # Display the graph
 pit.show()
 
@@ -224,7 +224,7 @@ pit.bar_label(bars,fmt="%.2f",padding=3)
 
 
 pit.tight_layout()
-pit.savefig("../images/images/average_scores_comparison.png", dpi=300, bbox_inches="tight")
+pit.savefig("images/average_scores_comparison.png", dpi=300, bbox_inches="tight")
 pit.show()
 
 
