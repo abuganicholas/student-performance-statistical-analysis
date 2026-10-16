@@ -58,8 +58,7 @@ was easiest or hardest.
 
 The chart below compares the variability of student scores in mathematics, reading, and writing.
 
-![Standard deviation comparison](../images/images/standard_deviation_comparison.png)
-
+![Standard deviation comparison](images/standard_deviation_comparison.png)
 
 ## Average Score Analysis
 
